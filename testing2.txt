@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 firts line
 second line
 third line
 fourth line
+=======
+firts line
+>>>>>>> parent of 68940b4 (second commit in testing2 file)
